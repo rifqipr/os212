@@ -5,3 +5,4 @@ Hello, I am Mihammad Rifqi Praditya and this is my github page.
 
 - [Log](TXT/mylog.txt)
 - [Links](LINKS)
+- [Repo](https://github.com/rifqipr/os212)
