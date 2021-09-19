@@ -9,3 +9,12 @@ ZCZC W01 120 L73 Genshin Impact
 ZCZC W01  90 L02 OSUI online concert event planning
 ZCZC W01 120 L99 Percussion practice
 ZCZC W01  30 L02 OSUI Prelude
+ZCZC W02 300 L99 OSUI percussion recording session
+ZCZC W02  60 L73 Genshin Impact
+ZCZC W02  60 L09 OS week 2 assignments
+ZCZC W02  15 L27 OS week 2 assignments
+ZCZC W02 120 L86 House cleanup
+ZCZC W02  70 L86 Cooking ingredients shopping\
+ZCZC W02 110 L73 Legends of Runeterra
+ZCZC W02  15 L73 Genshin Impact
+ZCZC W02  30 L84 Playing guitar
