@@ -13,8 +13,19 @@ ZCZC W02 300 L99 OSUI percussion recording session
 ZCZC W02  60 L73 Genshin Impact
 ZCZC W02  60 L09 OS week 2 assignments
 ZCZC W02  15 L27 OS week 2 assignments
-ZCZC W02 120 L86 House cleanup
+ZCZC W02 120 L86 Weekly house cleanup
 ZCZC W02  70 L86 Cooking ingredients shopping\
 ZCZC W02 110 L73 Legends of Runeterra
 ZCZC W02  15 L73 Genshin Impact
 ZCZC W02  30 L84 Playing guitar
+ZCZC W03 130 L80 Shang-Chi and the Legends of the Ten Rings
+ZCZC W03  60 L21 Trying to consistently workout on daily basis
+ZCZC W03  40 L32 Graph theory
+ZCZC W03 240 L80 Binge watched "The detective is already dead"
+ZCZC W03  30 L73 Genshin impact
+ZCZC W03  30 L63 Fixed ground cable not working
+ZCZC W03  50 L09 OS Week03 assignments
+ZCZC W03  45 L73 Legends of Runeterra
+ZCZC W03  60 L73 Genshin Impact
+ZCZC W03 120 L86 Weekly house cleanup
+ZCZC W03 180 L02 OSUI Online concert event planning
