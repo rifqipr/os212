@@ -15,3 +15,12 @@ permalink: /LINKS/
 3. Reddit's [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) and [r/MildyInfuriating](https://www.reddit.com/r/MildyInfuriating/)
 
     Factually the best subreddit.
+
+4. Youtube Channel [LEMMINO](https://www.youtube.com/c/LEMMiNO)
+
+    Arguabily the best docummentary channel in YouTube
+
+5. Youtube Channel [TwoSetViolin](https://www.youtube.com/c/twosetviolin)
+
+    yes.
+    
