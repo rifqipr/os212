@@ -29,3 +29,15 @@ ZCZC W03  45 L73 Legends of Runeterra
 ZCZC W03  60 L73 Genshin Impact
 ZCZC W03 120 L86 Weekly house cleanup
 ZCZC W03 180 L02 OSUI Online concert event planning
+ZCZC W04 270 L80 Movie date "Shang-chi and the Legend of the Ten Rings"
+ZCZC W04  90 L73 Legends of Runeterra
+ZCZC W04  40 L32 Elementary linear algebra
+ZCZC W04 120 L82 Binge read "Oyasumi punpun", half way done
+ZCZC W04 120 L02 Setting up zoom for IGI Day 1
+ZCZC W04 240 L02 IGI Day 1
+ZCZC W04 120 L02 Setting up zoom for IGI Day 2
+ZCZC W04 120 L02 IGI Day 2, first segment
+ZCZC W04  60 L02 OSUI mentoring session
+ZCZC W04 120 L02 IGI Day 2, second segment
+ZCZC W04  60 L09 OS Week04 assignments
+ZCZC W04 120 L86 Weekly house cleanup
