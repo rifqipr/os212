@@ -14,7 +14,7 @@ ZCZC W02  60 L73 Genshin Impact
 ZCZC W02  60 L09 OS week 2 assignments
 ZCZC W02  15 L27 OS week 2 assignments
 ZCZC W02 120 L86 Weekly house cleanup
-ZCZC W02  70 L86 Cooking ingredients shopping\
+ZCZC W02  70 L86 Cooking ingredients shopping
 ZCZC W02 110 L73 Legends of Runeterra
 ZCZC W02  15 L73 Genshin Impact
 ZCZC W02  30 L84 Playing guitar
@@ -41,3 +41,13 @@ ZCZC W04  60 L02 OSUI mentoring session
 ZCZC W04 120 L02 IGI Day 2, second segment
 ZCZC W04  60 L09 OS Week04 assignments
 ZCZC W04 120 L86 Weekly house cleanup
+ZCZC W05 120 L09 OS Week05 assignments
+ZCZC W05  90 L02 COMPFEST 13 competition awarding night
+ZCZC W05 125 L80 Watched "No Time to Die"
+ZCZC W05  30 L80 World Trigger 3rd season 1st episode
+ZCZC W05  90 L73 Genshin Impact
+ZCZC W05  30 L73 Legends of Runeterra
+ZCZC W05 120 L80 Worlds 2021
+ZCZC W05  30 L63 Quick computer fan cleaning
+ZCZC W05 270 L84 Cycling in Taman Mini Indonesia Indah
+ZCZC W05 120 L86 Weekly hoise cleanup
