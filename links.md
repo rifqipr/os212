@@ -23,4 +23,12 @@ permalink: /LINKS/
 5. Youtube Channel [TwoSetViolin](https://www.youtube.com/c/twosetviolin)
 
     yes.
-    
+
+6. Youtube playlist [Virtual Memory](https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)
+
+    Virtual environment uses virtual memory, say no more.
+
+7. [C language for apes](https://www.learn-c.org)
+
+    Seems like C will be useful in OS, just a hunch, probably.
+
