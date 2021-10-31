@@ -50,4 +50,16 @@ ZCZC W05  30 L73 Legends of Runeterra
 ZCZC W05 120 L80 Worlds 2021
 ZCZC W05  30 L63 Quick computer fan cleaning
 ZCZC W05 270 L84 Cycling in Taman Mini Indonesia Indah
-ZCZC W05 120 L86 Weekly hoise cleanup
+ZCZC W05 120 L86 Weekly house cleanup
+ZCZC W06 360 L84 Dufan
+ZCZC W06  90 L73 Monster Hunter: World
+ZCZC W06  45 L82 Modern Web Design by Zaenal A Rozi
+ZCZC W06 180 L02 Compfest 13 IGI evaluation session
+ZCZC W06  50 L02 Compfest 12 IGI sharing session
+ZCZC W06  90 L26 Messing around with C
+ZCZC W06  60 L73 League of Legends
+ZCZC W06  30 L70 Legends of Runeterra
+ZCZC W06  60 L80 World Trigger 3rd Season 2nd + 3rd episode
+ZCZC W06 130 L80 LEMMiNO's Jack the Ripper documentation
+ZCZC W06  30 L09 OS Week06 assignments
+ZCZC W06 120 L86 Weekly house cleanup
