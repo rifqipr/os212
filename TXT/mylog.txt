@@ -63,3 +63,16 @@ ZCZC W06  60 L80 World Trigger 3rd Season 2nd + 3rd episode
 ZCZC W06 130 L80 LEMMiNO's Jack the Ripper documentation
 ZCZC W06  30 L09 OS Week06 assignments
 ZCZC W06 120 L86 Weekly house cleanup
+ZCZC W07  30 L70 Cleaning PBP's CSS
+ZCZC W07  40 L70 First look at SDA's TP2
+ZCZC W07  60 L73 Legends of Runeterra
+ZCZC W07  60 L60 Backup and reinstall laptop's OS
+ZCZC W07 120 L73 Genshin Impact - Rolled Hu Tao
+ZCZC W07 120 L01 COMPFEST 14 Competition weekly weeting
+ZCZC W07  15 L73 First look at Apex Legends Season 11
+ZCZC W07  20 L22 Database class' weekly reflection quiz
+ZCZC W07 180 L70 Herokuapp deployment troubleshooting
+ZCZC W07  30 L70 Linear Algebra's post class forum
+ZCZC W07 120 L02 COMPFEST 14 Welcoming Party
+ZCZC W07 300 L80 Worlds 2021 Finals
+ZCZC W07 120 L09 Weekly house cleanup

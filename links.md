@@ -32,3 +32,14 @@ permalink: /LINKS/
 
     Seems like C will be useful in OS, just a hunch, probably.
 
+8. [What is a Fork](https://en.wikipedia.org/wiki/Fork_(system_call))
+
+    Link to wikipedia page - Fork
+
+9. [Demonstration of a fork()](https://www.geeksforgeeks.org/c-program-demonstrate-fork-and-pipe/)
+
+    Demonstration of a fork, duh
+
+10. [Process Syncronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+
+    Introduction to process sync
