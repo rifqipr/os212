@@ -68,11 +68,22 @@ ZCZC W07  40 L70 First look at SDA's TP2
 ZCZC W07  60 L73 Legends of Runeterra
 ZCZC W07  60 L60 Backup and reinstall laptop's OS
 ZCZC W07 120 L73 Genshin Impact - Rolled Hu Tao
-ZCZC W07 120 L01 COMPFEST 14 Competition weekly weeting
+ZCZC W07 120 L01 COMPFEST 14 Competition weekly meeting
 ZCZC W07  15 L73 First look at Apex Legends Season 11
 ZCZC W07  20 L22 Database class' weekly reflection quiz
 ZCZC W07 180 L70 Herokuapp deployment troubleshooting
 ZCZC W07  30 L70 Linear Algebra's post class forum
 ZCZC W07 120 L02 COMPFEST 14 Welcoming Party
 ZCZC W07 300 L80 Worlds 2021 Finals
-ZCZC W07 120 L09 Weekly house cleanup
+ZCZC W07 120 L86 Weekly house cleanup
+ZCZC W08  20 L05 Weekly OS Quiz
+ZCZC W08 160 L80 Arcane: Act 1
+ZCZC W08 120 L02 Weekly OS Zoom class
+ZCZC W08  45 L28 Linux from scratch chapter 1-4
+ZCZC W08  10 L28 Linux from scratch chapter 5
+ZCZC W08 120 L73 League of Legends | 2-1
+ZCZC W08 300 L09 SDA TP2 (fails)
+ZCZC W08  60 L73 Genshin Impact
+ZCZC W08 120 L28 Chapter 5 error troubleshoot (fails)
+ZCZC W08  90 L01 COMPFEST 14 Competition weekly meeting
+ZCZC W08 120 L86 Weekly house cleanup
