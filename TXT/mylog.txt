@@ -87,3 +87,4 @@ ZCZC W08  60 L73 Genshin Impact
 ZCZC W08 120 L28 Chapter 5 error troubleshoot (fails)
 ZCZC W08  90 L01 COMPFEST 14 Competition weekly meeting
 ZCZC W08 120 L86 Weekly house cleanup
+ZCZC W08 120 L09 OS Week08 Assignment fix
