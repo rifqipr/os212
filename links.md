@@ -47,3 +47,7 @@ permalink: /LINKS/
 11. [Deadlocks](https://www.tutorialspoint.com/process-deadlocks-in-operating-system)
 
     Visualization of Operating System deadlocks and how to prevent them
+
+12. [Arcane Trailer](https://www.youtube.com/watch?v=4Ps6nV4wiCE&t=27s)
+
+    It's really good.

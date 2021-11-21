@@ -88,3 +88,14 @@ ZCZC W08 120 L28 Chapter 5 error troubleshoot (fails)
 ZCZC W08  90 L01 COMPFEST 14 Competition weekly meeting
 ZCZC W08 120 L86 Weekly house cleanup
 ZCZC W08 120 L09 OS Week08 Assignment fix
+ZCZC W09  20 L05 Weekly OS Quiz
+ZCZC W09 120 L80 Arcane: Act 3
+ZCZC W09 120 L02 Weekly OS Zoom class
+ZCZC W09  10 L12 Try demos
+ZCZC W09  10 L13 Try previous midterm problems
+ZCZC W09  90 L73 League of Legends | 1-2
+ZCZC W09 600 L02 OSUI annual meeting
+ZCZC W09 120 L28 Linux from scratch chapter 6
+ZCZC W09  15 L28 Started Linux from scratch chapter 7
+ZCZC W09  10 L19 Update log
+ZCZC W09 120 L86 Weekly house cleanup
