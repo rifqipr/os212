@@ -99,3 +99,10 @@ ZCZC W09 120 L28 Linux from scratch chapter 6
 ZCZC W09  15 L28 Started Linux from scratch chapter 7
 ZCZC W09  10 L19 Update log
 ZCZC W09 120 L86 Weekly house cleanup
+ZCZC W10 120 L09 Weekly OS Zoom class
+ZCZC W10  90 L73 League of Legends | 3-0
+ZCZC W10  10 L12 Try Demos
+ZCZC W10  10 L13 Tru previous midterm problems
+ZCZC W10  10 L19 Update Log
+ZCZC W10  60 L73 Genshin Impact
+ZCZC W10 120 L86 Weekly house cleanup
